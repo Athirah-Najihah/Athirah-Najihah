@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athirah Zulkifili</h1>
-<h3 align="center">A robotic enthusiast 🤖</h3>
+<h3 align="center">A knowledge wanderer 🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Athirah-Najihah&label=Profile%20views&color=0e75b6&style=flat" alt="athirah-najihah" /> </p>
 
