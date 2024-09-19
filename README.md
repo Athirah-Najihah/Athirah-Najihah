@@ -13,7 +13,7 @@
  
  <br>🌱 I’m currently learning **ROS, advanced robotics techniques, and AI integration**
 
- ⚡ Fun fact **I love butterflies and pastel purple!**
+ 🎸 Fun Fact: My favorite tracks from *The Black Parade* are “I Don’t Love You” and “Cancer”—one for its empowering anthem and the other for its deep emotion. 🖤
 </div>
 
 <div align="center"> 
