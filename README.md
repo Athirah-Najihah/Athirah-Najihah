@@ -13,7 +13,7 @@
  
  <br>🌱 I’m currently learning **ROS, advanced robotics techniques, and AI integration**
 
- 🎸 Fun Fact: My favorite tracks from *The Black Parade* are “I Don’t Love You” and “Cancer”—one for its empowering anthem and the other for its deep emotion. 🖤
+ 🎸 Fun Fact: “I Don’t Love You” and “Cancer” are my top tracks from *The Black Parade*. 🖤
 </div>
 
 <div align="center"> 
