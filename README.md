@@ -13,7 +13,7 @@
  
  <br>🌱 I’m currently learning **ROS, advanced robotics techniques, and AI integration**
 
- 🎸 Fun Fact: “I Don’t Love You” and “Cancer” are my top tracks from *The Black Parade*. 🖤
+ 🎸 Fun Fact: “I Don’t Love You” and “Cancer” from *The Black Parade* are my favorite MCR tracks. 🖤
 </div>
 
 <div align="center"> 
