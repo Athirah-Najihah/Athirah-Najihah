@@ -6,13 +6,14 @@
 
 <h3 align="center">A knowledge wanderer 🧠</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Athirah-Najihah&label=Profile%20views&color=0e75b6&style=flat" alt="athirah-najihah" /> </p>
 <br/>
 
 <div align="center">
- 🔭 My latest project is <strong><a href="https://github.com/Athirah-Najihah/trashla_low-cost-tesla">Trashla "Low-Cost Tesla"</a></strong>
-
- <br>🌱 I’m currently learning **ROS, advanced robotics techniques, and AI integration**
+ 🔭 My final year project is <strong><a href="https://github.com/Athirah-Najihah/trashla_low-cost-tesla">Trashla "Low-Cost Tesla"</a></strong>
+  
+  [![Trashla Project Video](https://img.youtube.com/vi/QgfybT9aI-U/hqdefault.jpg)](https://youtu.be/QgfybT9aI-U)
+ 
+ 🌱 I’m currently learning **ROS, advanced robotics techniques, and AI integration**
 
  ⚡ Fun fact **I love butterflies and pastel purple!**
 </div>
@@ -52,11 +53,4 @@
 
 <br/><br/>
 
-
-## Acknowledgments
-
-This project incorporates code from [Nafiz Mansor's GitHub repository](https://github.com/ApizMan/ApizMan). The code is licensed under the MIT License.
-
-### License
-
-The code from Nafiz Mansor's repository is included under the MIT License. See the `LICENSE` file in this repository for the full text of the license.
+<hr/>
