@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Athirah Zulkifili</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Athirah-Najihah.Athirah-Najihah" />
 
 <h1 align="center">
