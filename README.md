@@ -10,10 +10,8 @@
 
 <div align="center">
  🔭 My final year project is <strong><a href="https://github.com/Athirah-Najihah/trashla_low-cost-tesla">Trashla "Low-Cost Tesla"</a></strong>
-  
-  [![Trashla Project Video](https://img.youtube.com/vi/QgfybT9aI-U/hqdefault.jpg)](https://youtu.be/QgfybT9aI-U)
  
- 🌱 I’m currently learning **ROS, advanced robotics techniques, and AI integration**
+ <br>🌱 I’m currently learning **ROS, advanced robotics techniques, and AI integration**
 
  ⚡ Fun fact **I love butterflies and pastel purple!**
 </div>
