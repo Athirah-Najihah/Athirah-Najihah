@@ -11,7 +11,7 @@
 <div align="center">
 🌙 An Astrophilia 🚀👩🏼‍🚀
 
- 🔭 My degree project is <strong><a href="https://github.com/Athirah-Najihah/trashla_low-cost-tesla">Trashla "Low-Cost Tesla"</a></strong>
+ <br>🔭 My degree project is <strong><a href="https://github.com/Athirah-Najihah/trashla_low-cost-tesla">Trashla "Low-Cost Tesla"</a></strong>
  
  <br>🌱 I’m currently learning **ROS, advanced robotics techniques, and AI integration**
 
