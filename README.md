@@ -9,11 +9,11 @@
 <br/>
 
 <div align="center">
-🌙 An Astrophilia 🚀👩🏼‍🚀
+🌙 An Astrophile 🚀👩🏼‍🚀
 
  <br>🔭 My degree project is <strong><a href="https://github.com/Athirah-Najihah/trashla_low-cost-tesla">Trashla "Low-Cost Tesla"</a></strong>
  
- <br>🌱 I’m currently learning **ROS, advanced robotics techniques, and AI integration**
+ 🌱 I’m currently learning **ROS, advanced robotics techniques, and AI integration**
 
  🎸 Fun Fact: “I Don’t Love You” and “Cancer” from *The Black Parade* are my favorite MCR tracks. 🖤
 </div>
